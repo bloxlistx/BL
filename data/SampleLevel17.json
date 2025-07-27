@@ -1,10 +1,9 @@
-{
-    "id": "ingame demonlist",
-    "name": "Albuquerque",
-    "author": "???",
-    "creators": ["???"],
-    "verifier": ["Teigu"],
-    "verification": "https://www.youtube.com/watch?v=H8uRaB2KWB4&ab_channel=Teigu",
+ { "id": "ingame demonlist",
+    "name": "LSD 444",
+    "author": "WORDS",
+    "creators": ["WORDS"],
+    "verifier": ["kenrick"],
+    "verification": "https://www.youtube.com/watch?v=MgJeijBGKHU",
     "percentToQualify": 56,
     "physics": "New/Old Physics idk",
     "records": [
