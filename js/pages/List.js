@@ -51,13 +51,10 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
-                        </li>
                     </ul>
                     <li>
-                            <div class="type-title-sm">FPS</div>
-                            <p>{{ level.FPS || 'Not Needed' }}</p>
+                            <div class="type-title-sm">Physics</div>
+                            <p>{{ level.Physics || 'New Physics' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
