@@ -51,11 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                    </ul>
-                    
-                    <li>
                             <div class="type-title-sm">Physics</div>
-                            <p>{{ level.Physics || 'New Physics' }}</p>
+                            <p>{{ level.physics || 'New Physics' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -115,7 +112,7 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the end trigger, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
