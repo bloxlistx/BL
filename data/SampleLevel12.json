@@ -1,0 +1,39 @@
+{
+    "id": 640,
+    "name": "Best Demon Play Me Plz",
+    "author": "Teigu",
+    "creators": ["Teigu"],
+    "verifier": "ZLO",
+    "verification": "https://www.youtube.com/watch?v=sUmyTVHX3Xw",
+    "percentToQualify": 56,
+    "physics": "Old Physics",
+    "records": [
+        {
+            "user": "Teigu",
+            "link": "https://www.youtube.com/watch?v=4po5tdjqmq4&ab_channel=Teigu",
+            "percent": 100,
+            "physics": "Old Physics"
+        }
+
+        ,{
+            "user": "z8ny",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+        }
+
+        ,{
+            "user": "galagzee",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+         }
+
+        ,{
+            "user": "hola",
+            "link": "https://www.youtube.com/watch?v=eAjLhQeHMp0",
+            "percent": 100,
+            "physics": "Old Physics"
+        }
+    ]
+}

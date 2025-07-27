@@ -1,0 +1,13 @@
+{
+    "id": 6789,
+    "name": "VOID",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "jeeral",
+    "verification":"https://www.youtube.com/watch?v=PcqakDlzFqo&t=7s&ab_channel=jeeral",
+    "percentToQualify": 56,
+    "physics": "Old Physics",
+    "records": [
+
+    ]
+}

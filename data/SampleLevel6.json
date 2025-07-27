@@ -1,18 +1,50 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 37,
+    "name": "Gravity",
+    "author": "AlbuquerqueGuy",
+    "creators": ["AlbuquerqueGuy"],
+    "verifier": "AlbuquerqueGuy",
+    "verification": "https://www.youtube.com/watch?v=9-G8AEF3sFs&ab_channel=AlbuquerqueGuy",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "physics": "Old Physics",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Teigu",
+            "link": "https://www.youtube.com/watch?v=nTT8d4EdJAY&ab_channel=Teigu",
             "percent": 100,
-            "hz": 360
-        }
+            "physics": "Old Physics"
+        },
+        {   "user": "jeeral",
+            "link": "https://www.youtube.com/watch?v=PhW4yjv7h6s",
+            "percent": 100,
+            "physics": "Old Physics"
+        },
+        {   "user": "KatarThanar",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+        },
+        {   "user": "KatarThanar",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+        },
+        {   "user": "galagzee",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+        },
+        {  "user": "galagzee",
+           "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+
+        },
+        {  "user": "Supergamerboy1004",
+           "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+            }
     ]
 }
+

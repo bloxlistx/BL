@@ -1,18 +1,48 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 484,
+    "name": "Violet Vortex",
+    "author": "lemon",
+    "creators": ["lemon"],
+    "verifier": "Teigu",
+    "verification": "https://www.youtube.com/watch?v=VOUeE-nOEqA",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "physics": "Old Physics",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "wbalio",
+            "link": "https://www.youtube.com/watch?v=aAbXUC472BY&ab_channel=wBalio",
             "percent": 100,
-            "hz": 360
+            "physics": "Old Physics"
+        }
+        ,{  "user": "wbalio",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+
+         }
+        ,{  "user": "z8ny",
+            "link": "https://www.youtube.com/watch?v=3yoFixj3Elg",
+            "percent": 100,
+            "physics": "Old Physics"
+        
+        }
+        ,{  "user": "galagzee",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+
+        }
+        ,{  "user": "galagzee",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+
+        }
+        ,{  "user": "hola",
+            "link": "none",
+            "percent": 100,
+            "physics": "Old Physics"
+        
         }
     ]
 }
