@@ -1,22 +1,23 @@
 {
     "id": 480,
     "name": "Cyan Cyclone",
-    "author": "Teigu",
+    "author": "lemon",
     "creators": ["Teigu"],
     "verifier": "Teigu",
-    "verification": "https://www.youtube.com/watch?v=wgUYJKTZtns",
+    "verification": "https://www.youtube.com/watch?v=wgUYJKTZtns&ab_channel=Teigu",
     "percentToQualify": "100",
     "physics": "Old Physics",
     "records": [
         {
             "user": "galagzee",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "none",
             "percent": 100,
+        },
         {
             "user": "Sample_Victor_2",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 120
         }
-
+    ]
 }
