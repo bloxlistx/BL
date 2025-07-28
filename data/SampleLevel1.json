@@ -3,7 +3,7 @@
     "name": "Albuquerque",
     "author": "???",
     "creators": ["???"],
-    "verifier": ["Teigu"],
+    "verifier": "Teigu",
     "verification": "https://www.youtube.com/watch?v=H8uRaB2KWB4&ab_channel=Teigu",
     "percentToQualify": 56,
     "physics": "New/Old Physics idk",
